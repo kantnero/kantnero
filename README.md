@@ -5,7 +5,7 @@ I'm a 2nd-year CS student and systems programmer.
 ## What I'm working on
 
 - **SCSI tape emulation support for QEMU**
-- **Rust compiler documentation** –
+- **Rust compiler documentation**
 - **Key-value store** – as an attempt to learn Rust
 
 ## What I care about
