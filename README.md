@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 I'm Emmanuel Ugwu
 
-<!--
-**kantnero/kantnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year CS student and systems programmer.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SCSI tape emulation support for QEMU**
+- **Rust compiler documentation** –
+- **Key-value store** – as an attempt to learn Rust
+
+## What I care about
+
+- C, Rust ecosystem, and low‑level systems
+- Virtualization and emulation (QEMU, KVM)
+- Minimal, readable code that works
+- Learning Rust by building and contributing
+
+## Languages & tools
+
+- C (primary), Rust (learning)
+- Linux, Git, GDB, QEMU, make, meson
+
+## Where to find me
+
+- GitHub: [kantnero](https://github.com/kantnero)
+
+---
+
+*"Write simple code. Understand the machine."*
