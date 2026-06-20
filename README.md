@@ -16,11 +16,6 @@ I'm currently open to remote internship opportunities in systems programming.
 - Minimal, readable code that works
 - Learning Rust by building and contributing
 
-## Languages & tools
-
-- C (primary), Rust (learning)
-- Linux, Git, GDB, QEMU, make, meson
-
 ## Where to find me
 
 - GitHub: [kantnero](https://github.com/kantnero)
